@@ -1,0 +1,25 @@
+# Fichiers objets générés lors de la compilation
+*.o
+*.obj
+
+# Fichier binaire exécutable généré
+myprogram
+
+# Fichiers générés par l'éditeur de liens
+myprogram.exe
+myprogram.out
+
+# Fichiers générés par des outils de test
+test-results/
+
+# Fichiers générés par des environnements de développement spécifiques
+.vscode/
+.idea/
+
+# Fichiers de sauvegarde automatique
+*~
+
+# Fichiers spécifiques à certains éditeurs
+*.swp
+*.swo
+
