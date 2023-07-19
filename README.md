@@ -20,7 +20,7 @@ La calculatrice prend en entrée deux nombres et un opérateur (+, -, *, /) sais
 Pour compiler tous les fichiers ensemble, utilisez la commande suivante :
 
 ```bash
-gcc main.c addition.c soustraction.c multiplication.c division.c -o calculatrice
+gcc main.c fonction/addition.c fonction/soustraction.c fonction/multiplication.c fonction/division.c -o calculatrice
 
 Cela produira un exécutable nommé calculatrice que vous pouvez ensuite exécuter.
 
